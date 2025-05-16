@@ -11,7 +11,7 @@ Follow the steps below to set up and run the project.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/abdelrahman-assoum/whatsapp-chat-scraper.git
+git clone https://github.com/abdelrahman-assoum/whatsapp-contact-scraper.git
 cd whatsapp-chat-scraper
 ```
 
