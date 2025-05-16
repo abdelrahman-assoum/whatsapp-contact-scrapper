@@ -1,8 +1,20 @@
-# 📥 WhatsApp Contact Scraper From Chats (Playwright)
+![image](https://github.com/user-attachments/assets/db487ab3-9bff-41b4-bdd2-be004fb1fd68)# 📥 WhatsApp Contact Scraper From Chats (Playwright)
 
 This script uses [Playwright](https://playwright.dev/) to automate WhatsApp Web and scrape all contact names from your chats list. Once finished, it saves the data to an Excel file.
 
 ---
+
+
+## ✅ Requirements
+
+- You must have **Node.js** installed on your device.
+
+If you don't have it, you can download and install it from the official Node.js website:
+
+👉 [https://nodejs.org/](https://nodejs.org/)
+
+---
+
 
 ## 🚀 Getting Started
 
