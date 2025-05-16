@@ -12,7 +12,7 @@ Follow the steps below to set up and run the project.
 
 ```bash
 git clone https://github.com/abdelrahman-assoum/whatsapp-contact-scraper.git
-cd whatsapp-chat-scraper
+cd whatsapp-contact-scraper
 ```
 
 ### 2. Install Dependencies
