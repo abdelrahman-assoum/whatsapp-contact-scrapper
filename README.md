@@ -4,6 +4,18 @@ This script uses [Playwright](https://playwright.dev/) to automate WhatsApp Web 
 
 ---
 
+
+## ✅ Requirements
+
+- You must have **Node.js** installed on your device.
+
+If you don't have it, you can download and install it from the official Node.js website:
+
+👉 [https://nodejs.org/](https://nodejs.org/)
+
+---
+
+
 ## 🚀 Getting Started
 
 Follow the steps below to set up and run the project.
@@ -14,8 +26,8 @@ Follow the steps below to set up and run the project.
 - Or clone with Git:
 
 ```bash
-git clone https://github.com/abdelrahman-assoum/whatsapp-chat-scraper.git
-cd whatsapp-chat-scraper
+git clone https://github.com/abdelrahman-assoum/whatsapp-contact-scraper.git
+cd whatsapp-contact-scraper
 ```
 
 ### 2. Run the Launcher
