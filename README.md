@@ -8,34 +8,29 @@ This script uses [Playwright](https://playwright.dev/) to automate WhatsApp Web 
 
 Follow the steps below to set up and run the project.
 
-### 1. Clone the Repository
+### 1. Download the Code
+
+- **Easiest**: click **“Code → Download ZIP”** on GitHub and extract it locally (ideal if you don’t have Git).
+- Or clone with Git:
 
 ```bash
 git clone https://github.com/abdelrahman-assoum/whatsapp-chat-scraper.git
 cd whatsapp-chat-scraper
 ```
 
-### 2. Install Dependencies
+### 2. Run the Launcher
 
-```bash
-npm install
-```
+Just double‑click **`run.bat`** in the project root.
 
-### 3. Install Playwright Browsers
+> 🛈 Windows may warn that the file is from an unknown publisher.  
+> Choose **“Run anyway”** – the script is safe.
 
-```bash
-npx playwright install
-```
+`run.bat` will:
 
-> ⚠️ This may take some time depending on your internet speed.
-
-### 4. Start the Script
-
-```bash
-npm start
-```
-
----
+1. Install Node dependencies (`npm install`) if missing.
+2. Fetch Playwright browsers (`npx playwright install`) on first run.
+3. Launch the scraper (`npm start`).
+4. Keep the terminal window open so you can watch logs.
 
 ## 🔍 How It Works
 
